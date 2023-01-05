@@ -1,0 +1,54 @@
+.game-list {
+    width: 200px;
+    height: 200px;
+    border: 2px dashed gold;
+    background-image: url(./images/depositphotos_42952635-stock-photo-paper-texture-old-paper-sheet.jpg);
+    background-size: cover;
+    text-align: center;
+    padding-top: 20px;
+    list-style: none;
+}
+
+.lit {
+    background-image: url(./images/Paper.jpg);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    width: 1400px;
+    height: 600px;
+}
+
+.her {
+    height: 98px;
+}
+
+.itg {
+    height: 98px;
+}
+
+.fad {
+    height: 100px;
+    width: 140px;
+}
+
+.caqt {
+    height: 98px;
+}
+
+.jame {
+    color: blue;
+}
+
+.po {
+    height: 150px;
+}
+
+.game-item {
+    color: firebrick;
+    text-align: center;
+}
+
+.tre {
+    background-image: url(./images/Paper.jpg);
+    flex-direction: row-reverse
+}
